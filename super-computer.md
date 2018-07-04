@@ -1,0 +1,4 @@
+- Clone a Human Brain onto a supercomputer.
+- Become Super-Intelligent.
+- Invent Technology to control minds.
+- Done.
